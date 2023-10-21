@@ -59,7 +59,7 @@ var S = {
         var interval,
         currentAction,
         time,
-        maxShapeSize = 40,
+        maxShapeSize = 25,
         sequence = [],
         cmd = '#';
         function formatTime(date) {
